@@ -1,0 +1,5 @@
+Separate phase 1, 2, 3 code into separate modules.
+Convert lists to numpy arrays.
+Document procedures and tag arguments with data types.
+Clean up threads. Utilize Daemons and handle early exit fallouts.
+ETA--- eventually...
